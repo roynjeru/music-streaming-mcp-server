@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtectedMcpServer", "ProtectedMcpServer\ProtectedMcpServer.csproj", "{D610F2F8-98D9-FD61-33FB-954BB58CC24F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelContextProtocol.TestOAuthServer", "ModelContextProtocol.TestOAuthServer\ModelContextProtocol.TestOAuthServer.csproj", "{3061BCFC-EC62-B2D3-D833-824E3659F562}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D610F2F8-98D9-FD61-33FB-954BB58CC24F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D610F2F8-98D9-FD61-33FB-954BB58CC24F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D610F2F8-98D9-FD61-33FB-954BB58CC24F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D610F2F8-98D9-FD61-33FB-954BB58CC24F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3061BCFC-EC62-B2D3-D833-824E3659F562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3061BCFC-EC62-B2D3-D833-824E3659F562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3061BCFC-EC62-B2D3-D833-824E3659F562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3061BCFC-EC62-B2D3-D833-824E3659F562}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B5D26D7-AC6E-42E1-B39B-FF811FA8DA38}
+	EndGlobalSection
+EndGlobal
